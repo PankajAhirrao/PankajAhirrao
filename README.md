@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br><br>👋 Hi, I'm Pankaj Ahirrao!   <br><br>🚀 Passionate Software Developer | Web Developer | Competitive Programmer  <br><br>🔹Tech Stack: C++, Python, Java, MERN Stack, SQL, MongoDB   <br>🔹 Interests: Web Development, Data Structures & Algorithms, AI-driven solutions       <br><br>💡 Always eager to collaborate and learn! Let’s build something great together.  <br><br>📫 Reach me at: pdahirrao25@gmail.com
+<br>👋 Hi, I'm Pankaj Ahirrao!   <br><br>🚀 Passionate Software Developer | Web Developer | Competitive Programmer  <br><br>🔹Tech Stack: C++, Python, Java, MERN Stack, SQL, MongoDB   <br>🔹 Interests: Web Development, Data Structures & Algorithms, AI-driven solutions       <br><br>💡 Always eager to collaborate and learn! Let’s build something great together.  <br><br>📫 Reach me at: pdahirrao25@gmail.com
 
 
 ## 🌐 Socials:
